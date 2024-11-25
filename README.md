@@ -5,13 +5,7 @@
 | **Avaliador**             | **Data**      |
 |---------------------------|---------------|
 | LUCAS                     |               |
-| PODMANICKI FERNANDES      |               |
-| LEONARDO                  |               |
-| BARRIONUEVO CANDIDO       |               |
-| JOAO                      |               |
-| PEDRO N JORGE BARBIERI    |               |
-| GABRIEL                   |               |
-| BRITO SCHANZ              |               |
+
 
 #### Tabela de Avaliação Heurística
 
@@ -37,13 +31,7 @@
 | **Avaliador**             | **Data**      |
 |---------------------------|---------------|
 | LUCAS                     |               |
-| PODMANICKI FERNANDES      |               |
-| LEONARDO                  |               |
-| BARRIONUEVO CANDIDO       |               |
-| JOAO                      |               |
-| PEDRO N JORGE BARBIERI    |               |
-| GABRIEL                   |               |
-| BRITO SCHANZ              |               |
+
 
 #### Tabela de Avaliação Heurística
 
@@ -69,13 +57,7 @@
 | **Avaliador**             | **Data**      |
 |---------------------------|---------------|
 | LUCAS                     |               |
-| PODMANICKI FERNANDES      |               |
-| LEONARDO                  |               |
-| BARRIONUEVO CANDIDO       |               |
-| JOAO                      |               |
-| PEDRO N JORGE BARBIERI    |               |
-| GABRIEL                   |               |
-| BRITO SCHANZ              |               |
+
 
 #### Tabela de Avaliação Heurística
 
@@ -101,13 +83,7 @@
 | **Avaliador**             | **Data**      |
 |---------------------------|---------------|
 | LUCAS                     |               |
-| PODMANICKI FERNANDES      |               |
-| LEONARDO                  |               |
-| BARRIONUEVO CANDIDO       |               |
-| JOAO                      |               |
-| PEDRO N JORGE BARBIERI    |               |
-| GABRIEL                   |               |
-| BRITO SCHANZ              |               |
+
 
 #### Tabela de Avaliação Heurística
 
