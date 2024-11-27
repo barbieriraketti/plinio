@@ -1,9 +1,6 @@
-Entendido! Vou corrigir as tabelas para refletirem a nova correspondência de funcionalidades:
 
----
 
-### Categoria: **Relatório**  
-(Não será alterada, será mantida conforme está)
+
 
 #### Avaliadores  
 | **Avaliador**             | **Data**      |  
@@ -102,6 +99,3 @@ Entendido! Vou corrigir as tabelas para refletirem a nova correspondência de fu
 | 9. Diagnóstico e recuperação      | Mensagens claras são exibidas caso o agendamento falhe.                                                                                                              | Sim                        | 3                      | Mensagens de erro são genéricas e não explicam o motivo de falhas no agendamento.                                        |  
 | 10. Ajuda e documentação          | Existe suporte disponível para ajudar o usuário no processo de agendamento.                                                                                            | Não                        | 0                      | A documentação cobre bem o processo de agendamento.                                                                     |  
 
---- 
-
-Se precisar de ajustes adicionais ou de um novo formato, é só avisar!
