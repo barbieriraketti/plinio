@@ -77,8 +77,11 @@ Entendido! Vou corrigir as tabelas para refletirem a nova correspondência de fu
 
 ---
 
-### Categoria: **Agendar Consulta**  
-(Substitui **Configuração**)  
+Segue a tabela corrigida para a categoria **Agendar Consulta**, sem erros de formatação:
+
+---
+
+### Categoria: **Agendar Consulta**
 
 #### Avaliadores  
 | **Avaliador**             | **Data**      |  
@@ -87,21 +90,19 @@ Entendido! Vou corrigir as tabelas para refletirem a nova correspondência de fu
 
 #### Tabela de Avaliação Heurística  
 
-| **Heurística**                    | **Descrição**                                                                                                                                                      | **Problema Identificado?** | **Grau de Severidade** | **Comentários**                                                                                                          |  
-|-----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------|  
-| 1. Visibilidade do status         | Mostra claramente o progresso do agendamento da consulta.                                                                                                            | Sim                        | 1                      | Não há indicação clara de quando o agendamento foi concluído com sucesso.                                               |  
-| 2. Compatibilidade com o mundo real | Os termos usados para agendamento (data, hora, tipo de consulta) são familiares ao usuário.                                                                           | Não                        | 0                      | Nenhum problema identificado.                                                                                          |  
-| 3. Controle e liberdade           | Permite que o usuário cancele ou ajuste uma consulta agendada facilmente.                                                                                            | Sim                        | 2                      | Falta
+| **Heurística**                    | **Descrição**                                                                                     | **Problema Identificado?** | **Grau de Severidade** | **Comentários**                                                                                                          |  
+|-----------------------------------|---------------------------------------------------------------------------------------------------|----------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------|  
+| 1. Visibilidade do status         | Mostra claramente o progresso do agendamento da consulta.                                         | Sim                        | 1                      | Não há indicação clara de quando o agendamento foi concluído com sucesso.                                               |  
+| 2. Compatibilidade com o mundo real | Os termos usados para agendamento (data, hora, tipo de consulta) são familiares ao usuário.         | Não                        | 0                      | Nenhum problema identificado.                                                                                          |  
+| 3. Controle e liberdade           | Permite que o usuário cancele ou ajuste uma consulta agendada facilmente.                         | Sim                        | 2                      | Falta um botão de cancelamento rápido para agendamentos.                                                                |  
+| 4. Consistência e padrões         | O formato de seleção de data e hora é consistente com outras partes do sistema.                  | Sim                        | 1                      | A seleção de data e hora não segue o padrão das telas de cadastro.                                                      |  
+| 5. Prevenção de erros             | Previne que o usuário agende consultas fora do horário de funcionamento.                         | Sim                        | 4                      | Não há validação para horários indisponíveis no momento do agendamento.                                                 |  
+| 6. Reconhecimento em vez de lembrança | Exibe informações sobre consultas anteriores para facilitar a escolha de horários futuros.         | Não                        | 0                      | Nenhum problema identificado.                                                                                          |  
+| 7. Flexibilidade e eficiência     | Usuários frequentes podem agendar consultas rapidamente, utilizando padrões comuns.              | Sim                        | 2                      | Faltam opções de "atalhos" para horários comuns, baseados no histórico do paciente.                                      |  
+| 8. Design minimalista             | O design é claro e objetivo, focado apenas nas informações necessárias para o agendamento.         | Não                        | 0                      | Nenhum problema identificado.                                                                                          |  
+| 9. Diagnóstico e recuperação      | Mensagens claras são exibidas caso o agendamento falhe.                                          | Sim                        | 3                      | Mensagens de erro são genéricas e não explicam o motivo de falhas no agendamento.                                        |  
+| 10. Ajuda e documentação          | Existe suporte disponível para ajudar o usuário no processo de agendamento.                     | Não                        | 0                      | A documentação cobre bem o processo de agendamento.                                                                     |  
 
- um botão de cancelamento rápido para agendamentos.                                                                |  
-| 4. Consistência e padrões         | O formato de seleção de data e hora é consistente com outras partes do sistema.                                                                                       | Sim                        | 1                      | A seleção de data e hora não segue o padrão das telas de cadastro.                                                      |  
-| 5. Prevenção de erros             | Previne que o usuário agende consultas fora do horário de funcionamento.                                                                                             | Sim                        | 4                      | Não há validação para horários indisponíveis no momento do agendamento.                                                 |  
-| 6. Reconhecimento em vez de lembrança | Exibe informações sobre consultas anteriores para facilitar a escolha de horários futuros.                                                                             | Não                        | 0                      | Nenhum problema identificado.                                                                                          |  
-| 7. Flexibilidade e eficiência     | Usuários frequentes podem agendar consultas rapidamente, utilizando padrões comuns.                                                                                   | Sim                        | 2                      | Faltam opções de "atalhos" para horários comuns, baseados no histórico do paciente.                                      |  
-| 8. Design minimalista             | O design é claro e objetivo, focado apenas nas informações necessárias para o agendamento.                                                                             | Não                        | 0                      | Nenhum problema identificado.                                                                                          |  
-| 9. Diagnóstico e recuperação      | Mensagens claras são exibidas caso o agendamento falhe.                                                                                                              | Sim                        | 3                      | Mensagens de erro são genéricas e não explicam o motivo de falhas no agendamento.                                        |  
-| 10. Ajuda e documentação          | Existe suporte disponível para ajudar o usuário no processo de agendamento.                                                                                            | Não                        | 0                      | A documentação cobre bem o processo de agendamento.                                                                     |  
+---
 
---- 
-
-Se precisar de ajustes adicionais ou de um novo formato, é só avisar!
+Se precisar de mais alterações ou de outros detalhes, é só avisar!
