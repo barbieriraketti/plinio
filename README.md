@@ -106,3 +106,21 @@ Segue a tabela corrigida para a categoria **Agendar Consulta**, sem erros de for
 ---
 
 Se precisar de mais alterações ou de outros detalhes, é só avisar!
+
+
+
+
+
+
+
+
+
+| **Critérios**           | **OpenAI**                                                      | **Modelos Tradicionais**                                   |
+|--------------------------|----------------------------------------------------------------|-----------------------------------------------------------|
+| **Precisão**            | Alta precisão devido a modelos de última geração treinados em grandes volumes de dados. | Depende da qualidade e quantidade de dados de treinamento específicos. |
+| **Facilidade de uso**   | API bem documentada e fácil de integrar em sistemas existentes. | Geralmente requer desenvolvimento customizado e configurações complexas. |
+| **Tempo de desenvolvimento** | Rápido: utilização de modelos pré-treinados economiza tempo significativo. | Longo: exige treinamento do zero e ajustes manuais.        |
+| **Flexibilidade**       | Capaz de lidar com diversas tarefas de linguagem natural (ex.: tradução, análise de texto, etc.). | Geralmente limitado ao problema específico para o qual foi treinado. |
+| **Custos**              | Escalável com custo por uso; requer recursos computacionais limitados no cliente. | Altos custos iniciais com infraestrutura para treinamento e manutenção. |
+| **Escalabilidade**      | Pode ser escalado facilmente em nuvem.                          | Escalabilidade limitada e custo elevado para novos dados. |
+
