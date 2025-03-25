@@ -1,4 +1,4 @@
-Entendido! Vou corrigir as tabelas para refletirem a nova correspondência de funcionalidades:
+
 
 ---
 
